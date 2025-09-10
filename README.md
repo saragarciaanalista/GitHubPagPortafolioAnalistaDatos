@@ -2,13 +2,13 @@
 
 # Soy Sara García - Analista de Datos
 
-Me apasiona transformar datos dispersos en información clara y visual que ayude a las empresas a tomar decisiones con confianza.
+> Me apasiona transformar datos dispersos en información clara y visual que ayude a las empresas a tomar decisiones con confianza.
 
-He desarrollado **cuadros de mando financieros y de ventas** en Power BI y SQL que redujeron en un 30 % los errores de conciliación y aceleraron el cierre mensual en varios departamentos.
+> He desarrollado **cuadros de mando financieros y de ventas** en Power BI y SQL que redujeron en un 30 % los errores de conciliación y aceleraron el cierre mensual en varios departamentos.
 
-También he trabajado en la **automatización de informes operativos**, integrando datos de distintas fuentes (Excel, ERPs y CRM), lo que permitió a los equipos directivos ahorrar horas de trabajo manual cada semana.
+> También he trabajado en la **automatización de informes operativos**, integrando datos de distintas fuentes (Excel, ERPs y CRM), lo que permitió a los equipos directivos ahorrar horas de trabajo manual cada semana.
 
-Me gusta que los informes no solo muestren cifras, sino que cuenten una historia: que cualquier persona, con o sin perfil técnico, pueda entender qué está pasando en el negocio y hacia dónde dirigir sus decisiones.
+> Me gusta que los informes no solo muestren cifras, sino que cuenten una historia: que cualquier persona, con o sin perfil técnico, pueda entender qué está pasando en el negocio y hacia dónde dirigir sus decisiones.
 
 [🔗 Ver Resumen ](https://drive.google.com/file/d/1eWNht9hzxu-6xPz2o4y1PJoej5eQjI88/view?usp=sharing)
 
@@ -48,8 +48,8 @@ Me gusta que los informes no solo muestren cifras, sino que cuenten una historia
 ## Certificaciones profesionales
 
 > **Microsoft Certified Power BI Data Analyst**
-- (PL-300)
-- Emitido  en Agosto 2025
+> (PL-300)
+> Emitido  en Agosto 2025
 
 ---
 ## Más cosas divertidas sobre mi
