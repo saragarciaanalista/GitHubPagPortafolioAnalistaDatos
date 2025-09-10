@@ -53,7 +53,21 @@
 
 ---
 ## Más cosas divertidas sobre mi
-<img width="850" height="850" alt="Mas Cosas Divertidas" src="https://github.com/user-attachments/assets/275b94b5-69fc-4c82-8cfd-e3b954bead2b" />
+
+> **Mi familia y yo nos llevamos muy bien**
+- Los visito siempre que puedo. Por suerte, mi ciudad natal no está tan lejos.
+  
+> **Nunca he estado en otro país**
+- Me he recorrido todo el país, ¡pero nunca he salido de él! ¡Espero que eso pueda cambiar pronto!
+
+> **Soy alérgica a las fresas**
+- Es el único alimento al que soy alérgica
+
+> **Me encanta caminar**
+- Doy paseo casi todos los días por el vecindario
+
+> **¡Soy adicta al chocolate!**
+- ¡Me encanta en todas sus formas!
 
 ---
 
