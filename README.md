@@ -9,11 +9,10 @@ Me gusta que los informes no solo muestren cifras, sino que cuenten una historia
 
 ## Habilidades técnicas y profesionales
 
-- **Languages**: Python, SQL, R
-- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, XGBoost, Matplotlib, Seaborn
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools**: Jupyter Notebook, Tableau, Power BI, Git, Docker, AWS (S3, EC2)
-- **Concepts**: Regression, Classification, NLP, Time Series Forecasting, A/B Testing, Clustering
+- **Languages**: Python
+- **Databases**: MySQL
+- **Herramientas**: Power BI, excel, SAP R/3, figma, 
+- **Habilidades profesionales**: Pensamiento crítico, comunicación efectiva, data storytelling, orientación al detalle, gestión del tiempo y resolución de problemas
 
 ---
 
@@ -21,7 +20,7 @@ Me gusta que los informes no solo muestren cifras, sino que cuenten una historia
 
 ### 1. Análisis de Ventas y Desempeño por Categoría y Producto
 **Descripción**: Dashboard en Power BI que analiza el desempeño de ventas entre 2018 y 2021. Incluye KPIs clave (ventas totales, unidades vendidas, días de entrega), la evolución anual, el rendimiento por categoría y la identificación de productos con mejor y peor desempeño. Permite a la empresa priorizar estrategias y optimizar decisiones comerciales. 
-[🔗 View Project]([https://github.com/priyamehta/churn-prediction](https://app.powerbi.com/view?r=eyJrIjoiZTc1ZDM0YmEtZDQwMC00ZDQzLThmNWYtM2FmZGI3YjY4MDI4IiwidCI6ImE2NDBjNzc1LTViMmQtNDMxZC1hMGJmLTBmMDNiMGMzMjhlOCIsImMiOjR9))
+[🔗 View Project](https://app.powerbi.com/view?r=eyJrIjoiZTc1ZDM0YmEtZDQwMC00ZDQzLThmNWYtM2FmZGI3YjY4MDI4IiwidCI6ImE2NDBjNzc1LTViMmQtNDMxZC1hMGJmLTBmMDNiMGMzMjhlOCIsImMiOjR9)
 
 ---
 
