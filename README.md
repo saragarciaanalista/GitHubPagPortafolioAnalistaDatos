@@ -48,7 +48,7 @@
 ## Certificaciones profesionales
 
 > **Microsoft Certified Power BI Data Analyst**
-> (PL-300)
+> **(PL-300)**
 > Emitido  en Agosto 2025
 
 ---
