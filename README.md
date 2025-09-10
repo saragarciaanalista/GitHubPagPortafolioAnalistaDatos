@@ -36,9 +36,10 @@ Me gusta que los informes no solo muestren cifras, sino que cuenten una historia
 
 ### 2. Análisis de Rendimiento y Gestión de Tickets de Soporte IT
 **Descripción**: Este dashboard ofrece una visión integral del rendimiento del equipo de soporte de TI. Permite visualizar el volumen de tickets, el tiempo de resolución y la distribución de la carga de trabajo, permitiendo a los líderes del equipo identificar tendencias, detectar ineficiencias y tomar decisiones basadas en datos para optimizar la operación y mejorar el servicio al cliente.
-[🔗 Ver Detalle del Informe PDF]( https://drive.google.com/file/d/1972GJ1GiCMBd_SXHwXS0n7SkZ131Dy4h/view?usp=sharing)
 
-[🔗 Ver Dashboard ] (https://app.powerbi.com/view?r=eyJrIjoiMGE1YzhhZDAtOTUzYS00ODRkLTg0ZDYtMzE3ZjM0MTExMWNiIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+[🔗 Ver Detalle del Informe PDF](https://drive.google.com/file/d/1972GJ1GiCMBd_SXHwXS0n7SkZ131Dy4h/view?usp=sharing)
+
+[🔗 Ver Dashboard ](https://app.powerbi.com/view?r=eyJrIjoiMGE1YzhhZDAtOTUzYS00ODRkLTg0ZDYtMzE3ZjM0MTExMWNiIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 ---
 
@@ -47,6 +48,13 @@ Me gusta que los informes no solo muestren cifras, sino que cuenten una historia
 - **Microsoft Certified Power BI Data Analyst**
 - (PL-300)
 - Emitido  en Agosto 2025
+
+---
+
+## Más cosas divertidas sobre mi
+
+![Mas Cosas Divertidas](https://github.com/user-attachments/assets/fd657fc3-fb9b-402f-a792-1b4bdeb51b60)
+
 
 ---
 
