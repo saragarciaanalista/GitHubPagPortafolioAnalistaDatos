@@ -15,6 +15,7 @@ Me gusta que los informes no solo muestren cifras, sino que cuenten una historia
 ---
 
 ## Habilidades técnicas y profesionales
+<img width="300" height="300" alt="LogosHabilidadesTecnicas" src="https://github.com/user-attachments/assets/1c4db8c2-6ab8-4ac5-a762-687d8582fdac" />
 
 - **Lenguajes de Programación**: Python
 - **Bases de Datos**: SQL (para interactuar con MySQL, PostgreSQL, SQL Server)
@@ -44,6 +45,7 @@ Me gusta que los informes no solo muestren cifras, sino que cuenten una historia
 ---
 
 ## Certificaciones profesionales
+![CertificadoPL-300](https://github.com/user-attachments/assets/c23bd1af-de40-400b-b455-5f5a2eb8f27e)
 
 - **Microsoft Certified Power BI Data Analyst**
 - (PL-300)
@@ -52,9 +54,7 @@ Me gusta que los informes no solo muestren cifras, sino que cuenten una historia
 ---
 
 ## Más cosas divertidas sobre mi
-
 ![Mas Cosas Divertidas](https://github.com/user-attachments/assets/fd657fc3-fb9b-402f-a792-1b4bdeb51b60)
-
 
 ---
 
