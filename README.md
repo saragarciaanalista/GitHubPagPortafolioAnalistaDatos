@@ -1,4 +1,4 @@
-![Soy Sara García](/ <img width="1080" height="1080" alt="FotoPortafolio" src="https://github.com/user-attachments/assets/447b3723-4526-4349-be10-270b56023030" />
+!(/ <img width="300" height="300" alt="FotoPortafolio" src="https://github.com/user-attachments/assets/447b3723-4526-4349-be10-270b56023030" />
 )
 
 # Sara García - Analista de Datos
@@ -28,9 +28,10 @@ Me gusta que los informes no solo muestren cifras, sino que cuenten una historia
 
 ### 1. Análisis de Ventas y Desempeño por Categoría y Producto
 **Descripción**: Dashboard en Power BI que analiza el desempeño de ventas entre 2018 y 2021. Incluye KPIs clave (ventas totales, unidades vendidas, días de entrega), la evolución anual, el rendimiento por categoría y la identificación de productos con mejor y peor desempeño. Permite a la empresa priorizar estrategias y optimizar decisiones comerciales.
-[🔗 Ver Detalle del Informe PDF]( https://drive.google.com/file/d/1iJyrFadKdJAMqRWE_BaYuLtvN-HPdbxT/view?usp=sharing)
 
-[🔗 Ver Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiZTc1ZDM0YmEtZDQwMC00ZDQzLThmNWYtM2FmZGI3YjY4MDI4IiwidCI6ImE2NDBjNzc1LTViMmQtNDMxZC1hMGJmLTBmMDNiMGMzMjhlOCIsImMiOjR9)
+[🔗 Ver Detalle del Informe PDF](https://drive.google.com/file/d/1iJyrFadKdJAMqRWE_BaYuLtvN-HPdbxT/view?usp=sharing)
+
+[🔗 Ver Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTc1ZDM0YmEtZDQwMC00ZDQzLThmNWYtM2FmZGI3YjY4MDI4IiwidCI6ImE2NDBjNzc1LTViMmQtNDMxZC1hMGJmLTBmMDNiMGMzMjhlOCIsImMiOjR9)
 
 ---
 
