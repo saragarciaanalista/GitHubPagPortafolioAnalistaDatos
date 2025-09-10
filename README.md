@@ -1,9 +1,9 @@
-!(/ <img width="300" height="300" alt="FotoPortafolio" src="https://github.com/user-attachments/assets/447b3723-4526-4349-be10-270b56023030" />
-)
+<img width="300" height="300" alt="FotoPortafolio" src="https://github.com/user-attachments/assets/447b3723-4526-4349-be10-270b56023030" />
 
-# Sara García - Analista de Datos
 
-Soy **Sara García**, Me apasiona transformar datos dispersos en información clara y visual que ayude a las empresas a tomar decisiones con confianza.
+# Soy Sara García - Analista de Datos
+
+Me apasiona transformar datos dispersos en información clara y visual que ayude a las empresas a tomar decisiones con confianza.
 
 He desarrollado cuadros de mando financieros y de ventas en Power BI y SQL que redujeron en un 30 % los errores de conciliación y aceleraron el cierre mensual en varios departamentos.
 
