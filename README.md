@@ -47,13 +47,14 @@ Me gusta que los informes no solo muestren cifras, sino que cuenten una historia
 
 ## Certificaciones profesionales
 
-- **Microsoft Certified Power BI Data Analyst**
+> **Microsoft Certified Power BI Data Analyst**
 - (PL-300)
 - Emitido  en Agosto 2025
 
 ---
 ## Más cosas divertidas sobre mi
 <img width="850" height="850" alt="Mas Cosas Divertidas" src="https://github.com/user-attachments/assets/275b94b5-69fc-4c82-8cfd-e3b954bead2b" />
+
 ---
 
 ### Si mi trabajo ha despertado tu interés o si ves una oportunidad de colaboración, por favor, no dudes en contactarme. Me entusiasmaría la idea de conectar contigo y explorar cómo el análisis de datos puede ser un motor de crecimiento para tu negocio 
