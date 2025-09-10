@@ -1,10 +1,13 @@
-# 👩‍💻 YOUR NAME - Data Science Portfolio
+# Sara García - Analista de Datos
 
-Hi there! I'm **Sara García**, a passionate Data Scientist with a strong foundation in statistics, machine learning, and data storytelling. I love turning raw data into actionable insights and building models that solve real-world problems.
+Soy **Sara García**, Me apasiona transformar datos dispersos en información clara y visual que ayude a las empresas a tomar decisiones con confianza.
+He desarrollado cuadros de mando financieros y de ventas en Power BI y SQL que redujeron en un 30 % los errores de conciliación y aceleraron el cierre mensual en varios departamentos.
+También he trabajado en la automatización de informes operativos, integrando datos de distintas fuentes (Excel, ERPs y CRM), lo que permitió a los equipos directivos ahorrar horas de trabajo manual cada semana.
+Me gusta que los informes no solo muestren cifras, sino que cuenten una historia: que cualquier persona, con o sin perfil técnico, pueda entender qué está pasando en el negocio y hacia dónde dirigir sus decisiones.
 
 ---
 
-## 🧠 Skills & Technologies
+## Habilidades técnicas y profesionales
 
 - **Languages**: Python, SQL, R
 - **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, XGBoost, Matplotlib, Seaborn
@@ -14,16 +17,11 @@ Hi there! I'm **Sara García**, a passionate Data Scientist with a strong founda
 
 ---
 
-## 📁 Projects
+## Proyectos destacados
 
-### 1. 📊 Customer Churn Prediction
-**Goal**: Identify customers likely to churn for a telecom company.  
-**Tech Stack**: Python, Scikit-learn, Logistic Regression, Random Forest  
-- Cleaned and explored 6K+ customer records
-- Trained multiple ML models with GridSearchCV
-- Achieved **89% accuracy** with optimized random forest
-- Deployed using Streamlit for demo purposes  
-[🔗 View Project](https://github.com/priyamehta/churn-prediction)
+### 1. Análisis de Ventas y Desempeño por Categoría y Producto
+**Descripción**: Dashboard en Power BI que analiza el desempeño de ventas entre 2018 y 2021. Incluye KPIs clave (ventas totales, unidades vendidas, días de entrega), la evolución anual, el rendimiento por categoría y la identificación de productos con mejor y peor desempeño. Permite a la empresa priorizar estrategias y optimizar decisiones comerciales. 
+[🔗 View Project]([https://github.com/priyamehta/churn-prediction](https://app.powerbi.com/view?r=eyJrIjoiZTc1ZDM0YmEtZDQwMC00ZDQzLThmNWYtM2FmZGI3YjY4MDI4IiwidCI6ImE2NDBjNzc1LTViMmQtNDMxZC1hMGJmLTBmMDNiMGMzMjhlOCIsImMiOjR9))
 
 ---
 
