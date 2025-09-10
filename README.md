@@ -54,7 +54,7 @@ Me gusta que los informes no solo muestren cifras, sino que cuenten una historia
 ---
 
 ## Más cosas divertidas sobre mi
-<img width="700" height="700" alt="Mas Cosas Divertidas" src="https://github.com/user-attachments/assets/275b94b5-69fc-4c82-8cfd-e3b954bead2b" />
+<img width="850" height="850" alt="Mas Cosas Divertidas" src="https://github.com/user-attachments/assets/275b94b5-69fc-4c82-8cfd-e3b954bead2b" />
 
 ---
 
