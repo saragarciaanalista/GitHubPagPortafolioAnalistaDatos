@@ -10,7 +10,7 @@
 
 > Me gusta que los informes no solo muestren cifras, sino que cuenten una historia: que cualquier persona, con o sin perfil técnico, pueda entender qué está pasando en el negocio y hacia dónde dirigir sus decisiones.
 
-[🔗 Ver Resumen ](https://drive.google.com/file/d/1eWNht9hzxu-6xPz2o4y1PJoej5eQjI88/view?usp=sharing)
+[🔗 Ver Currículum ](https://drive.google.com/file/d/1eWNht9hzxu-6xPz2o4y1PJoej5eQjI88/view?usp=sharing)
 
 ---
 
