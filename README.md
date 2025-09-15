@@ -31,8 +31,8 @@
 **Descripción**: Dashboard en Power BI que analiza el desempeño de ventas entre 2018 y 2021. Incluye KPIs clave (ventas totales, unidades vendidas, días de entrega), la evolución anual, el rendimiento por categoría y la identificación de productos con mejor y peor desempeño. Permite a la empresa priorizar estrategias y optimizar decisiones comerciales.
 
 [🔗 Ver Detalle del Informe PDF](https://drive.google.com/file/d/1iJyrFadKdJAMqRWE_BaYuLtvN-HPdbxT/view?usp=sharing)
+[🔗 Ver ¨Dashboard] ( https://app.powerbi.com/view?r=eyJrIjoiOGE2MTQyMzktZjY2Yi00NjBlLWI3ZjYtN2VlNjczMjMyYjMzIiwidCI6ImE2NDBjNzc1LTViMmQtNDMxZC1hMGJmLTBmMDNiMGMzMjhlOCIsImMiOjR9)
 
-[🔗 Ver Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGE2MTQyMzktZjY2Yi00NjBlLWI3ZjYtN2VlNjczMjMyYjMzIiwidCI6ImE2NDBjNzc1LTViMmQtNDMxZC1hMGJmLTBmMDNiMGMzMjhlOCIsImMiOjR9)
 ---
 
 ### 2. Análisis de Rendimiento y Gestión de Tickets de Soporte IT
