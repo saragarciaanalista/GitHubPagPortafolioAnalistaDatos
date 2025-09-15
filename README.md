@@ -32,8 +32,7 @@
 
 [🔗 Ver Detalle del Informe PDF](https://drive.google.com/file/d/1iJyrFadKdJAMqRWE_BaYuLtvN-HPdbxT/view?usp=sharing)
 
-[🔗 Ver Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTc1ZDM0YmEtZDQwMC00ZDQzLThmNWYtM2FmZGI3YjY4MDI4IiwidCI6ImE2NDBjNzc1LTViMmQtNDMxZC1hMGJmLTBmMDNiMGMzMjhlOCIsImMiOjR9)
-
+[🔗 Ver Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGE2MTQyMzktZjY2Yi00NjBlLWI3ZjYtN2VlNjczMjMyYjMzIiwidCI6ImE2NDBjNzc1LTViMmQtNDMxZC1hMGJmLTBmMDNiMGMzMjhlOCIsImMiOjR9)
 ---
 
 ### 2. Análisis de Rendimiento y Gestión de Tickets de Soporte IT
