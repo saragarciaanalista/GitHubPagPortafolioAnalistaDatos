@@ -32,7 +32,7 @@
 
 [🔗 Ver Detalle del Informe PDF](https://drive.google.com/file/d/1iJyrFadKdJAMqRWE_BaYuLtvN-HPdbxT/view?usp=sharing)
 
-[🔗 Ver Dashboard]( https://app.powerbi.com/view?r=eyJrIjoiOGE2MTQyMzktZjY2Yi00NjBlLWI3ZjYtN2VlNjczMjMyYjMzIiwidCI6ImE2NDBjNzc1LTViMmQtNDMxZC1hMGJmLTBmMDNiMGMzMjhlOCIsImMiOjR9)
+[🔗 Ver Dashboard]( https://app.powerbi.com/view?r=eyJrIjoiMDZiYjY3ZTItZDBmZi00OGRiLWFjOGEtZmIxNjBhMTFhZDg2IiwidCI6ImE2NDBjNzc1LTViMmQtNDMxZC1hMGJmLTBmMDNiMGMzMjhlOCIsImMiOjR9)
 
 ---
 
